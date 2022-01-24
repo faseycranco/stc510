@@ -1,0 +1,683 @@
+﻿Script started on 2022-01-23 12:21:08-08:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="116" LINES="32"]
+]0;casey@casey-VirtualBox: ~[01;32mcasey@casey-VirtualBox[00m:[01;34m~[00m$ wget[K[K[K[Kcd Downloads
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ wget http://bit.ly/fbi-help
+--2022-01-23 12:22:25--    http://bit.ly/fbi-help
+Resolving bit.ly (bit.ly)... 67.199.248.10, 67.199.248.11
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 [following]
+--2022-01-23 12:22:25--    https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.8.18, 2620:100:601b:18::a27d:812
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.8.18|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /s/raw/14jagxjbzhyxg8g/log.tar.gz [following]
+--2022-01-23 12:22:26--    https://www.dropbox.com/s/raw/14jagxjbzhyxg8g/log.tar.gz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com/cd/0/inline/BeXshr1FSQhEyUWoJOqm3lK9l9x2zW9YrFdRo7Q9NR7STXUM00Y46lTp3jJh2mBz127ynpjkfVyODREHApU-cVBARMtWre8sUwnkEfPUAkrBUHhmef_pnrDkgneYfh7DAvC9dTwaIkjBM7rFHbw5Aixa/file# [following]
+--2022-01-23 12:22:26--    https://ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com/cd/0/inline/BeXshr1FSQhEyUWoJOqm3lK9l9x2zW9YrFdRo7Q9NR7STXUM00Y46lTp3jJh2mBz127ynpjkfVyODREHApU-cVBARMtWre8sUwnkEfPUAkrBUHhmef_pnrDkgneYfh7DAvC9dTwaIkjBM7rFHbw5Aixa/file
+Resolving ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com (ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com)... 162.125.8.15, 2620:100:601b:15::a27d:80f
+Connecting to ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com (ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com)|162.125.8.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/BeXb3w1nVgsqA438AZspzf9xVSxR96mv6Aqk0pa0qcBSMIw91Ncb7HIrfkzNRX0IJUrPMiDUZ2McP253zWa2Yn4ZLbjHWp1BRy4IYTbICZsyjR69HshZPRGB0RZ7flFLrrb-beqYvEega0NHqh0kmcDC2Lx90VZgdj26rxd1Dmy46qIB2JBOKOyUcvrOxbgwD2017osJNaJg-2xfVYlnDhV-u-7EpFz09cKpn934ibdeqTgqXrVeAORxJNNxCJceqyvxhS15Fd_27M3Ml-H5XordLIJdmFpTzov55xqGeSFsJlHpbhgzj_PvudRWCC0j5qbNcVxTEwMPQvQWxgyDyzgi9tnjzejZI3bRMMF1ldGup2l6-8zTo-zX72Zl_hXqZOA/file [following]
+--2022-01-23 12:22:27--    https://ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com/cd/0/inline2/BeXb3w1nVgsqA438AZspzf9xVSxR96mv6Aqk0pa0qcBSMIw91Ncb7HIrfkzNRX0IJUrPMiDUZ2McP253zWa2Yn4ZLbjHWp1BRy4IYTbICZsyjR69HshZPRGB0RZ7flFLrrb-beqYvEega0NHqh0kmcDC2Lx90VZgdj26rxd1Dmy46qIB2JBOKOyUcvrOxbgwD2017osJNaJg-2xfVYlnDhV-u-7EpFz09cKpn934ibdeqTgqXrVeAORxJNNxCJceqyvxhS15Fd_27M3Ml-H5XordLIJdmFpTzov55xqGeSFsJlHpbhgzj_PvudRWCC0j5qbNcVxTEwMPQvQWxgyDyzgi9tnjzejZI3bRMMF1ldGup2l6-8zTo-zX72Zl_hXqZOA/file
+Reusing existing connection to ucb1c7ffaae575e0c279e8b9dfd2.dl.dropboxusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 384564585 (367M) [application/octet-stream]
+Saving to: ‚Äòfbi-help‚Äô
+
+
+fbi-help                                              0%[                                                                                              ]              0    --.-KB/s                              
+fbi-help                                              0%[                                                                                              ] 111.16K      551KB/s                              
+fbi-help                                              0%[                                                                                              ] 831.16K    2.01MB/s                              
+fbi-help                                              0%[                                                                                              ]      3.44M    5.70MB/s                              
+fbi-help                                              1%[                                                                                              ]      6.17M    7.67MB/s                              
+fbi-help                                              2%[>                                                                                            ]      8.89M    8.84MB/s                              
+fbi-help                                              3%[>                                                                                            ]    11.61M    9.63MB/s                              
+fbi-help                                              3%[>                                                                                            ]    14.37M    10.2MB/s                              
+fbi-help                                              4%[=>                                                                                          ]    17.09M    10.6MB/s                              
+fbi-help                                              5%[=>                                                                                          ]    19.83M    11.0MB/s                              
+fbi-help                                              6%[=>                                                                                          ]    22.58M    11.2MB/s                              
+fbi-help                                              6%[==>                                                                                        ]    25.31M    11.5MB/s                              
+fbi-help                                              7%[==>                                                                                        ]    28.04M    11.6MB/s                              
+fbi-help                                              8%[==>                                                                                        ]    30.74M    11.8MB/s                              
+fbi-help                                              9%[===>                                                                                      ]    33.33M    11.8MB/s                              
+fbi-help                                              9%[===>                                                                                      ]    36.30M    12.0MB/s        eta 27s        
+fbi-help                                            10%[====>                                                                                    ]    39.03M    12.7MB/s        eta 27s        
+fbi-help                                            11%[====>                                                                                    ]    41.76M    13.3MB/s        eta 27s        
+fbi-help                                            12%[====>                                                                                    ]    44.50M    13.6MB/s        eta 27s        
+fbi-help                                            12%[====>                                                                                    ]    45.20M    12.8MB/s        eta 27s        
+fbi-help                                            13%[=====>                                                                                  ]    49.76M    13.4MB/s        eta 26s        
+fbi-help                                            14%[=====>                                                                                  ]    52.48M    13.4MB/s        eta 26s        
+fbi-help                                            15%[======>                                                                                ]    55.20M    13.4MB/s        eta 26s        
+fbi-help                                            15%[======>                                                                                ]    57.94M    13.4MB/s        eta 26s        
+fbi-help                                            16%[======>                                                                                ]    60.66M    13.4MB/s        eta 26s        
+fbi-help                                            17%[=======>                                                                              ]    63.36M    13.4MB/s        eta 24s        
+fbi-help                                            18%[=======>                                                                              ]    66.06M    13.4MB/s        eta 24s        
+fbi-help                                            18%[=======>                                                                              ]    68.80M    13.4MB/s        eta 24s        
+fbi-help                                            19%[========>                                                                            ]    71.51M    13.3MB/s        eta 24s        
+fbi-help                                            20%[========>                                                                            ]    74.17M    13.6MB/s        eta 24s        
+fbi-help                                            20%[========>                                                                            ]    76.87M    13.5MB/s        eta 23s        
+fbi-help                                            21%[=========>                                                                          ]    79.51M    13.3MB/s        eta 23s        
+fbi-help                                            22%[=========>                                                                          ]    82.25M    13.3MB/s        eta 23s        
+fbi-help                                            23%[=========>                                                                          ]    84.86M    13.3MB/s        eta 23s        
+fbi-help                                            23%[==========>                                                                        ]    87.56M    13.8MB/s        eta 23s        
+fbi-help                                            24%[==========>                                                                        ]    90.22M    13.6MB/s        eta 22s        
+fbi-help                                            25%[==========>                                                                        ]    92.92M    13.4MB/s        eta 22s        
+fbi-help                                            26%[===========>                                                                      ]    95.59M    13.4MB/s        eta 22s        
+fbi-help                                            26%[===========>                                                                      ]    98.36M    13.4MB/s        eta 22s        
+fbi-help                                            27%[===========>                                                                      ] 101.08M    13.4MB/s        eta 22s        
+fbi-help                                            28%[============>                                                                    ] 103.81M    13.4MB/s        eta 20s        
+fbi-help                                            29%[============>                                                                    ] 106.50M    13.4MB/s        eta 20s        
+fbi-help                                            29%[============>                                                                    ] 109.17M    13.4MB/s        eta 20s        
+fbi-help                                            30%[=============>                                                                  ] 111.78M    13.4MB/s        eta 20s        
+fbi-help                                            31%[=============>                                                                  ] 114.51M    13.4MB/s        eta 20s        
+fbi-help                                            31%[=============>                                                                  ] 116.98M    13.3MB/s        eta 19s        
+fbi-help                                            32%[==============>                                                                ] 119.50M    13.3MB/s        eta 19s        
+fbi-help                                            33%[==============>                                                                ] 121.84M    13.2MB/s        eta 19s        
+fbi-help                                            33%[==============>                                                                ] 124.37M    13.1MB/s        eta 19s        
+fbi-help                                            34%[===============>                                                              ] 127.00M    13.1MB/s        eta 19s        
+fbi-help                                            35%[===============>                                                              ] 129.69M    13.1MB/s        eta 18s        
+fbi-help                                            36%[===============>                                                              ] 132.12M    13.1MB/s        eta 18s        
+fbi-help                                            36%[================>                                                            ] 133.76M    12.7MB/s        eta 18s        
+fbi-help                                            36%[================>                                                            ] 133.80M    11.6MB/s        eta 18s        
+fbi-help                                            36%[================>                                                            ] 135.37M    11.3MB/s        eta 18s        
+fbi-help                                            37%[================>                                                            ] 138.11M    11.3MB/s        eta 18s        
+fbi-help                                            38%[=================>                                                          ] 140.51M    11.3MB/s        eta 18s        
+fbi-help                                            39%[=================>                                                          ] 143.17M    11.2MB/s        eta 18s        
+fbi-help                                            39%[=================>                                                          ] 145.91M    11.2MB/s        eta 18s        
+fbi-help                                            40%[==================>                                                        ] 148.62M    11.3MB/s        eta 18s        
+fbi-help                                            41%[==================>                                                        ] 151.34M    11.2MB/s        eta 17s        
+fbi-help                                            42%[==================>                                                        ] 154.05M    11.3MB/s        eta 17s        
+fbi-help                                            42%[===================>                                                      ] 156.78M    11.4MB/s        eta 17s        
+fbi-help                                            43%[===================>                                                      ] 159.50M    11.5MB/s        eta 17s        
+fbi-help                                            44%[===================>                                                      ] 162.20M    11.6MB/s        eta 17s        
+fbi-help                                            44%[====================>                                                    ] 164.89M    11.6MB/s        eta 16s        
+fbi-help                                            45%[====================>                                                    ] 167.64M    11.6MB/s        eta 16s        
+fbi-help                                            46%[====================>                                                    ] 170.39M    11.7MB/s        eta 16s        
+fbi-help                                            47%[=====================>                                                  ] 173.12M    12.0MB/s        eta 16s        
+fbi-help                                            47%[=====================>                                                  ] 175.86M    13.4MB/s        eta 16s        
+fbi-help                                            48%[=====================>                                                  ] 178.59M    13.4MB/s        eta 15s        
+fbi-help                                            49%[======================>                                                ] 181.33M    13.4MB/s        eta 15s        
+fbi-help                                            50%[======================>                                                ] 183.87M    13.5MB/s        eta 15s        
+fbi-help                                            50%[======================>                                                ] 186.58M    13.5MB/s        eta 15s        
+fbi-help                                            51%[=======================>                                              ] 189.36M    13.5MB/s        eta 15s        
+fbi-help                                            52%[=======================>                                              ] 192.09M    13.5MB/s        eta 14s        
+fbi-help                                            53%[=======================>                                              ] 194.81M    13.5MB/s        eta 14s        
+fbi-help                                            53%[========================>                                            ] 197.56M    13.6MB/s        eta 14s        
+fbi-help                                            54%[========================>                                            ] 200.28M    13.5MB/s        eta 14s        
+fbi-help                                            55%[=========================>                                          ] 203.01M    13.5MB/s        eta 14s        
+fbi-help                                            56%[=========================>                                          ] 205.73M    13.5MB/s        eta 13s        
+fbi-help                                            56%[=========================>                                          ] 208.48M    13.6MB/s        eta 13s        
+fbi-help                                            57%[==========================>                                        ] 211.06M    13.5MB/s        eta 13s        
+fbi-help                                            58%[==========================>                                        ] 213.80M    13.5MB/s        eta 13s        
+fbi-help                                            59%[==========================>                                        ] 216.51M    13.5MB/s        eta 13s        
+fbi-help                                            59%[===========================>                                      ] 219.25M    13.5MB/s        eta 12s        
+fbi-help                                            60%[===========================>                                      ] 222.00M    13.5MB/s        eta 12s        
+fbi-help                                            61%[===========================>                                      ] 224.73M    13.6MB/s        eta 12s        
+fbi-help                                            62%[============================>                                    ] 227.47M    13.6MB/s        eta 12s        
+fbi-help                                            62%[============================>                                    ] 230.20M    13.6MB/s        eta 12s        
+fbi-help                                            63%[============================>                                    ] 232.95M    13.6MB/s        eta 10s        
+fbi-help                                            64%[=============================>                                  ] 235.69M    13.6MB/s        eta 10s        
+fbi-help                                            65%[=============================>                                  ] 238.45M    13.6MB/s        eta 10s        
+fbi-help                                            65%[=============================>                                  ] 241.19M    13.6MB/s        eta 10s        
+fbi-help                                            66%[==============================>                                ] 243.91M    13.6MB/s        eta 10s        
+fbi-help                                            67%[==============================>                                ] 246.62M    13.6MB/s        eta 9s          
+fbi-help                                            67%[==============================>                                ] 249.36M    13.6MB/s        eta 9s          
+fbi-help                                            68%[===============================>                              ] 251.91M    13.5MB/s        eta 9s          
+fbi-help                                            69%[===============================>                              ] 254.64M    13.6MB/s        eta 9s          
+fbi-help                                            70%[===============================>                              ] 257.39M    13.6MB/s        eta 9s          
+fbi-help                                            70%[================================>                            ] 260.12M    13.5MB/s        eta 8s          
+fbi-help                                            71%[================================>                            ] 262.86M    13.5MB/s        eta 8s          
+fbi-help                                            72%[=================================>                          ] 265.59M    13.5MB/s        eta 8s          
+fbi-help                                            73%[=================================>                          ] 268.33M    13.6MB/s        eta 8s          
+fbi-help                                            73%[=================================>                          ] 271.05M    13.5MB/s        eta 8s          
+fbi-help                                            74%[==================================>                        ] 273.83M    13.5MB/s        eta 7s          
+fbi-help                                            75%[==================================>                        ] 276.58M    13.8MB/s        eta 7s          
+fbi-help                                            76%[==================================>                        ] 279.31M    13.5MB/s        eta 7s          
+fbi-help                                            76%[===================================>                      ] 282.05M    13.5MB/s        eta 7s          
+fbi-help                                            77%[===================================>                      ] 284.76M    13.5MB/s        eta 7s          
+fbi-help                                            78%[===================================>                      ] 287.44M    13.5MB/s        eta 6s          
+fbi-help                                            79%[====================================>                    ] 290.19M    13.5MB/s        eta 6s          
+fbi-help                                            79%[====================================>                    ] 292.86M    13.6MB/s        eta 6s          
+fbi-help                                            80%[====================================>                    ] 295.61M    13.6MB/s        eta 6s          
+fbi-help                                            81%[=====================================>                  ] 298.33M    13.6MB/s        eta 6s          
+fbi-help                                            82%[=====================================>                  ] 301.08M    13.6MB/s        eta 5s          
+fbi-help                                            82%[=====================================>                  ] 303.81M    13.6MB/s        eta 5s          
+fbi-help                                            83%[======================================>                ] 306.53M    13.6MB/s        eta 5s          
+fbi-help                                            84%[======================================>                ] 309.28M    13.6MB/s        eta 5s          
+fbi-help                                            85%[======================================>                ] 312.00M    13.6MB/s        eta 5s          
+fbi-help                                            85%[=======================================>              ] 314.73M    13.6MB/s        eta 4s          
+fbi-help                                            86%[=======================================>              ] 317.47M    13.6MB/s        eta 4s          
+fbi-help                                            87%[========================================>            ] 320.20M    13.6MB/s        eta 4s          
+fbi-help                                            88%[========================================>            ] 322.92M    13.6MB/s        eta 4s          
+fbi-help                                            88%[========================================>            ] 325.66M    13.6MB/s        eta 4s          
+fbi-help                                            89%[=========================================>          ] 328.36M    13.6MB/s        eta 3s          
+fbi-help                                            90%[=========================================>          ] 331.12M    13.6MB/s        eta 3s          
+fbi-help                                            90%[=========================================>          ] 333.69M    13.6MB/s        eta 3s          
+fbi-help                                            91%[==========================================>        ] 336.42M    13.6MB/s        eta 3s          
+fbi-help                                            92%[==========================================>        ] 339.16M    13.6MB/s        eta 3s          
+fbi-help                                            93%[==========================================>        ] 341.91M    13.6MB/s        eta 2s          
+fbi-help                                            93%[===========================================>      ] 344.66M    13.6MB/s        eta 2s          
+fbi-help                                            94%[===========================================>      ] 347.39M    13.6MB/s        eta 2s          
+fbi-help                                            94%[===========================================>      ] 348.22M    12.2MB/s        eta 2s          
+fbi-help                                            95%[===========================================>      ] 350.01M    12.0MB/s        eta 2s          
+fbi-help                                            96%[============================================>    ] 352.73M    12.0MB/s        eta 1s          
+fbi-help                                            96%[============================================>    ] 355.41M    11.9MB/s        eta 1s          
+fbi-help                                            97%[============================================>    ] 357.65M    11.8MB/s        eta 1s          
+fbi-help                                            98%[=============================================> ] 360.84M    11.9MB/s        eta 1s          
+fbi-help                                            99%[=============================================> ] 363.58M    12.0MB/s        eta 1s          
+fbi-help                                            99%[=============================================> ] 366.30M    11.9MB/s        eta 0s          
+fbi-help                                          100%[==============================================>] 366.75M    11.9MB/s        in 28s          
+
+2022-01-23 12:22:56 (12.9 MB/s) - ‚Äòfbi-help‚Äô saved [384564585/384564585]
+
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh    fbi-help
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ rm fbi-help
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ curl -L http://bit.ly/fbi-help
+Warning: Binary output can mess up your terminal. Use "--output -" to tell 
+Warning: curl to output it to your terminal anyway, or consider "--output 
+Warning: <FILE>" to save to a file.
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ curl -L http://bit.ly/fbi-help -o log.tar.gx[Kz
+    % Total        % Received % Xferd    Average Speed      Time        Time          Time    Current
+                                                                  Dload    Upload      Total      Spent        Left    Speed
+
+    0          0        0          0        0          0            0            0 --:--:-- --:--:-- --:--:--          0
+100      144    100      144        0          0        712            0 --:--:-- --:--:-- --:--:--      712
+
+    0          0        0          0        0          0            0            0 --:--:-- --:--:-- --:--:--          0
+100      135        0      135        0          0        200            0 --:--:-- --:--:-- --:--:--      385
+
+100      318    100      318        0          0        300            0    0:00:01    0:00:01 --:--:--      300
+
+    0          0        0          0        0          0            0            0 --:--:--    0:00:01 --:--:--          0
+100    1076        0    1076        0          0        581            0 --:--:--    0:00:01 --:--:--    2101
+
+    0          0        0          0        0          0            0            0 --:--:--    0:00:02 --:--:--          0
+    2    366M        2 7766k        0          0    2339k            0    0:02:40    0:00:03    0:02:37 8369k
+    5    366M        5 20.7M        0          0    4925k            0    0:01:16    0:00:04    0:01:12 10.7M
+    9    366M        9 34.4M        0          0    6637k            0    0:00:56    0:00:05    0:00:51 11.7M
+ 13    366M      13 48.1M        0          0    7795k            0    0:00:48    0:00:06    0:00:42 12.2M
+ 16    366M      16 61.6M        0          0    8632k            0    0:00:43    0:00:07    0:00:36 12.5M
+ 20    366M      20 75.1M        0          0    9254k            0    0:00:40    0:00:08    0:00:32 13.5M
+ 24    366M      24 88.8M        0          0    9759k            0    0:00:38    0:00:09    0:00:29 13.6M
+ 27    366M      27    102M        0          0      9.9M            0    0:00:36    0:00:10    0:00:26 13.5M
+ 31    366M      31    116M        0          0    10.2M            0    0:00:35    0:00:11    0:00:24 13.5M
+ 35    366M      35    129M        0          0    10.5M            0    0:00:34    0:00:12    0:00:22 13.5M
+ 37    366M      37    137M        0          0    10.3M            0    0:00:35    0:00:13    0:00:22 12.5M
+ 41    366M      41    151M        0          0    10.5M            0    0:00:34    0:00:14    0:00:20 12.5M
+ 45    366M      45    165M        0          0    10.7M            0    0:00:34    0:00:15    0:00:19 12.5M
+ 48    366M      48    178M        0          0    10.9M            0    0:00:33    0:00:16    0:00:17 12.5M
+ 52    366M      52    192M        0          0    11.1M            0    0:00:33    0:00:17    0:00:16 12.5M
+ 56    366M      56    206M        0          0    11.2M            0    0:00:32    0:00:18    0:00:14 13.6M
+ 59    366M      59    219M        0          0    11.3M            0    0:00:32    0:00:19    0:00:13 13.6M
+ 63    366M      63    233M        0          0    11.4M            0    0:00:31    0:00:20    0:00:11 13.6M
+ 67    366M      67    246M        0          0    11.5M            0    0:00:31    0:00:21    0:00:10 13.6M
+ 71    366M      71    260M        0          0    11.6M            0    0:00:31    0:00:22    0:00:09 13.6M
+ 74    366M      74    273M        0          0    11.7M            0    0:00:31    0:00:23    0:00:08 13.4M
+ 76    366M      76    282M        0          0    11.6M            0    0:00:31    0:00:24    0:00:07 12.5M
+ 80    366M      80    295M        0          0    11.6M            0    0:00:31    0:00:25    0:00:06 12.5M
+ 84    366M      84    309M        0          0    11.7M            0    0:00:31    0:00:26    0:00:05 12.5M
+ 88    366M      88    323M        0          0    11.8M            0    0:00:31    0:00:27    0:00:04 12.5M
+ 91    366M      91    336M        0          0    11.8M            0    0:00:30    0:00:28    0:00:02 12.6M
+ 95    366M      95    350M        0          0    11.9M            0    0:00:30    0:00:29    0:00:01 13.5M
+ 99    366M      99    363M        0          0    11.9M            0    0:00:30    0:00:30 --:--:-- 13.5M
+100    366M    100    366M        0          0    12.0M            0    0:00:30    0:00:30 --:--:-- 13.5M
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh    [0m[01;31mlog.tar.gz[0m
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls -l
+total 969976
+-rw-rw-r-- 1 casey casey 608680744 Jan 17 14:31 Anaconda3-2021.11-Linux-x86_64.sh
+-rw-rw-r-- 1 casey casey 384564585 Jan 23 13:00 [0m[01;31mlog.tar.gz[0m
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ rm log.tar.gz
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ curl https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0&file_subpath=%2Flog.csv -o t[Klog.tar.gz
+[1] 9857
+-o: command not found
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ 301 Moved Permanently
+
+The resource has been moved to /s/raw/14jagxjbzhyxg8g/log.tar.gz;
+
+you should be redirected automatically.
+
+
+
+
+
+pwd
+/home/casey/Downloads
+[1]+    Done                                        curl https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ curl -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0&file_subpath=%2Flog.csv - [K0[Ko log.tar.gz
+[1] 9880
+-o: command not found
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ Warning: Binary output can mess up your terminal. Use "--output -" to tell 
+Warning: curl to output it to your terminal anyway, or consider "--output 
+Warning: <FILE>" to save to a file.
+ls
+Anaconda3-2021.11-Linux-x86_64.sh
+[1]+    Exit 23                                  curl -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ curl -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 --output log.t 
+ar.gz
+    % Total        % Received % Xferd    Average Speed      Time        Time          Time    Current
+                                                                  Dload    Upload      Total      Spent        Left    Speed
+
+    0          0        0          0        0          0            0            0 --:--:-- --:--:-- --:--:--          0
+100      135        0      135        0          0        311            0 --:--:-- --:--:-- --:--:--      311
+
+100      318    100      318        0          0        369            0 --:--:-- --:--:-- --:--:--      369
+100      318    100      318        0          0        369            0 --:--:-- --:--:-- --:--:--          0
+
+100    1076        0    1076        0          0        639            0 --:--:--    0:00:01 --:--:--      639
+100    1076        0    1076        0          0        638            0 --:--:--    0:00:01 --:--:--          0
+
+    0    366M        0    462k        0          0      182k            0    0:34:13    0:00:02    0:34:11    182k
+    3    366M        3 13.4M        0          0    3916k            0    0:01:35    0:00:03    0:01:32 13.0M
+    7    366M        7 26.7M        0          0    6036k            0    0:01:02    0:00:04    0:00:58 13.1M
+ 10    366M      10 40.3M        0          0    7467k            0    0:00:50    0:00:05    0:00:45 13.2M
+ 14    366M      14 53.9M        0          0    8456k            0    0:00:44    0:00:06    0:00:38 13.3M
+ 18    366M      18 67.4M        0          0    9177k            0    0:00:40    0:00:07    0:00:33 13.4M
+ 22    366M      22 80.9M        0          0    9717k            0    0:00:38    0:00:08    0:00:30 13.4M
+ 25    366M      25 94.2M        0          0      9.8M            0    0:00:37    0:00:09    0:00:28 13.5M
+ 29    366M      29    107M        0          0    10.2M            0    0:00:35    0:00:10    0:00:25 13.5M
+ 33    366M      33    121M        0          0    10.5M            0    0:00:34    0:00:11    0:00:23 13.5M
+ 36    366M      36    133M        0          0    10.5M            0    0:00:34    0:00:12    0:00:22 12.9M
+ 39    366M      39    143M        0          0    10.6M            0    0:00:34    0:00:13    0:00:21 12.5M
+ 42    366M      42    156M        0          0    10.7M            0    0:00:33    0:00:14    0:00:19 12.5M
+ 46    366M      46    170M        0          0    10.9M            0    0:00:33    0:00:15    0:00:18 12.5M
+ 50    366M      50    184M        0          0    11.1M            0    0:00:32    0:00:16    0:00:16 12.5M
+ 53    366M      53    197M        0          0    11.2M            0    0:00:32    0:00:17    0:00:15 13.0M
+ 57    366M      57    211M        0          0    11.3M            0    0:00:32    0:00:18    0:00:14 13.5M
+ 61    366M      61    224M        0          0    11.5M            0    0:00:31    0:00:19    0:00:12 13.6M
+ 64    366M      64    238M        0          0    11.6M            0    0:00:31    0:00:20    0:00:11 13.5M
+ 68    366M      68    251M        0          0    11.6M            0    0:00:31    0:00:21    0:00:10 13.5M
+ 72    366M      72    265M        0          0    11.7M            0    0:00:31    0:00:22    0:00:09 13.5M
+ 74    366M      74    273M        0          0    11.6M            0    0:00:31    0:00:23    0:00:08 12.4M
+ 78    366M      78    286M        0          0    11.6M            0    0:00:31    0:00:24    0:00:07 12.4M
+ 81    366M      81    300M        0          0    11.7M            0    0:00:31    0:00:25    0:00:06 12.4M
+ 85    366M      85    313M        0          0    11.8M            0    0:00:31    0:00:26    0:00:05 12.3M
+ 89    366M      89    327M        0          0    11.8M            0    0:00:30    0:00:27    0:00:03 12.3M
+ 92    366M      92    340M        0          0    11.9M            0    0:00:30    0:00:28    0:00:02 13.4M
+ 96    366M      96    354M        0          0    11.9M            0    0:00:30    0:00:29    0:00:01 13.4M
+100    366M    100    366M        0          0    12.0M            0    0:00:30    0:00:30 --:--:-- 13.4M
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh    [0m[01;31mlog.tar.gz[0m
+
+
+
+
+
+
+ /[4mpattern[24m                    *    Search forward for ([4mN[24m-th) matching line.
+[7mHELP -- Press RETURN for more, or q when done[27m[K
+[K    ?[4mpattern[24m                    *    Search backward for ([4mN[24m-th) matching line.
+[7mHELP -- Press RETURN for more, or q when done[27m[K
+[K    n                                  *    Repeat previous search (for [4mN[24m-th occurrence).
+[7mHELP -- Press RETURN for more, or q when done[27m[K
+[K    N                                  *    Repeat previous search in reverse direction.
+[7mHELP -- Press RETURN for more, or q when done[27m[K...skipping...
+54.161.92.haf,2017-06-27,00:00:18,0.0,947263.0,0001279569-09-001396,.hdr.sgml,200.0,1028.0,0.0,0.0,0.0,10.0,0.0,
+54.162.236.dgd,2017-06-27,00:00:18,0.0,1046232.0,0000907244-06-000265,.hdr.sgml,200.0,1570.0,0.0,0.0,0.0,10.0,0.0,
+54.173.101.aha,2017-06-27,00:00:18,0.0,932782.0,9999999997-16-026706,.txt,200.0,2066.0,0.0,0.0,0.0,10.0,0.0,
+54.196.73.aea,2017-06-27,00:00:18,0.0,217591.0,0000888002-96-000077,.txt,200.0,6716.0,0.0,0.0,0.0,10.0,0.0,
+54.196.73.aea,2017-06-27,00:00:18,0.0,217591.0,0000888002-96-000077,.hdr.sgml,200.0,1241.0,0.0,0.0,0.0,10.0,0.0,
+54.212.94.jcd,2017-06-27,00:00:18,0.0,357295.0,0000928816-15-001760,a_ssbcustmod2.htm,301.0,669.0,0.0,0.0,0.0,10.0,0.0,
+54.212.94.jcd,2017-06-27,00:00:18,0.0,357295.0,0000928816-15-001760,a_pilmod2.htm,301.0,662.0,0.0,0.0,0.0,10.0,0.0,
+54.212.94.jcd,2017-06-27,00:00:18,0.0,357295.0,0000928816-15-001760,a_ssbcustmod2.htm,200.0,205892.0,0.0,0.0,0.0,10.0,0.0,
+54.212.94.jcd,2017-06-27,00:00:18,0.0,357295.0,0000928816-15-001760,a_ssbcustmod2.htm,301.0,274.0,0.0,0.0,1.0,10.0,0.0,
+54.212.94.jcd,2017-06-27,00:00:18,0.0,357295.0,0000928816-15-001760,a_pilmod2.htm,200.0,37625.0,0.0,0.0,0.0,10.0,0.0,
+54.67.64.eij,2017-06-27,00:00:18,0.0,1644963.0,0001144204-17-033729,-index.htm,200.0,2918.0,1.0,0.0,0.0,10.0,0.0,
+54.67.64.eij,2017-06-27,00:00:18,0.0,1572810.0,0001572810-17-000001,primary_doc.xml,301.0,661.0,0.0,0.0,0.0,10.0,0.0,
+54.67.64.eij,2017-06-27,00:00:18,0.0,1556148.0,0001193125-17-212858,-index.htm,200.0,3317.0,1.0,0.0,0.0,10.0,0.0,
+54.67.64.eij,2017-06-27,00:00:18,0.0,1644963.0,0001144204-17-033729,-index.htm,301.0,686.0,1.0,0.0,0.0,10.0,0.0,
+54.67.64.eij,2017-06-27,00:00:18,0.0,1011060.0,0001011060-17-000008,-index.htm,301.0,677.0,1.0,0.0,0.0,10.0,0.0,
+54.67.64.eij,2017-06-27,00:00:18,0.0,1556148.0,0001193125-17-212858,-index.htm,301.0,684.0,1.0,0.0,0.0,10.0,0.0,
+54.75.252.bfc,2017-06-27,00:00:18,0.0,1114446.0,0001114446-17-004073,-index.html,200.0,2812.0,1.0,0.0,0.0,10.0,0.0,
+54.82.158.iee,2017-06-27,00:00:18,0.0,906768.0,0000906768-97-000007,.hdr.sgml,200.0,978.0,0.0,0.0,0.0,10.0,0.0,
+54.82.158.iee,2017-06-27,00:00:18,0.0,1301843.0,0001096350-09-000057,.txt,0.0,16379.0,0.0,0.0,0.0,10.0,0.0,
+54.82.158.iee,2017-06-27,00:00:18,0.0,1301843.0,0001096350-09-000057,.txt,200.0,30289.0,0.0,0.0,0.0,10.0,0.0,
+54.86.246.jfc,2017-06-27,00:00:18,0.0,1166390.0,0001019965-02-000143,-index.html,200.0,6264.0,1.0,0.0,0.0,10.0,0.0,
+54.86.246.jfc,2017-06-27,00:00:18,0.0,1166391.0,0001019965-02-000145,-index.html,301.0,655.0,1.0,0.0,0.0,10.0,0.0,
+54.86.246.jfc,2017-06-27,00:00:18,0.0,1166390.0,0001019965-02-000143,-index.html,301.0,654.0,1.0,0.0,0.0,10.0,0.0,
+54.89.107.aah,2017-06-27,00:00:18,0.0,1570393.0,0001628280-17-006737,.txt,200.0,6614.0,0.0,0.0,0.0,10.0,0.0,
+54.90.241.bgd,2017-06-27,00:00:18,0.0,912093.0,0001193125-14-149079,.hdr.sgml,200.0,1027.0,0.0,0.0,0.0,10.0,0.0,
+54.90.241.bgd,2017-06-27,00:00:18,0.0,1077479.0,0001104659-13-084508,.txt,200.0,2191.0,0.0,0.0,0.0,10.0,0.0,
+54.90.76.dce,2017-06-27,00:00:18,0.0,33488.0,0000950152-01-500424,-index.html,200.0,7113.0,1.0,0.0,0.0,10.0,0.0,
+54.90.76.dce,2017-06-27,00:00:18,0.0,33488.0,0000950152-01-500424,-index.html,301.0,652.0,1.0,0.0,0.0,10.0,0.0,
+60.242.198.hbf,2017-06-27,00:00:18,0.0,100331.0,0000950123-95-000868,-index.html,301.0,658.0,1.0,0.0,0.0,10.0,0.0,
+60.242.198.hbf,2017-06-27,00:00:18,0.0,100331.0,0000950123-95-000868,.txt,200.0,8594.0,0.0,0.0,0.0,10.0,0.0,
+60.242.198.hbf,2017-06-27,00:00:18,0.0,100331.0,0000950123-95-000868,.txt,301.0,647.0,0.0,0.0,0.0,10.0,0.0,
+64.57.81.eib,2017-06-27,00:00:18,0.0,882104.0,0000882104-17-000045,pdli-20170331.xml,200.0,2071945.0,0.0,0.0,0.0,10.0,0.0,
+64.57.81.eib,2017-06-27,00:00:18,0.0,882104.0,0000882104-17-000045,pdli-20170331.xml,301.0,658.0,0.0,0.0,0.0,10.0,0.0,
+65.223.234.aah,2017-06-27,00:00:18,0.0,713275.0,0001169232-08-001161,.txt,0.0,70527.0,0.0,0.0,0.0,10.0,0.0,
+65.223.234.aah,2017-06-27,00:00:18,0.0,863015.0,0000863015-02-000006,.txt,200.0,446783.0,0.0,0.0,0.0,10.0,0.0,
+65.223.234.aah,2017-06-27,00:00:18,0.0,844718.0,0000914317-97-000631,.txt,200.0,33354.0,0.0,0.0,0.0,10.0,0.0,
+65.223.234.aah,2017-06-27,00:00:18,0.0,713002.0,0000950134-08-004171,.txt,200.0,440772.0,0.0,0.0,0.0,10.0,0.0,
+65.223.234.aah,2017-06-27,00:00:18,0.0,844718.0,0000914317-97-000630,.txt,200.0,32616.0,0.0,0.0,0.0,10.0,0.0,
+[7mlog.csv[27m[K
+
+[K[?1l>[?1049l[23;0;0t]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education{[K[A-Za-z][A-z[KZa-z].txt' log.csv | [K[K[K
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education[A-Za-z][A-Za-z]*.txt' log.csv
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education' log.csv
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation[m[K0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+66.249.64.efi,2017-06-27,02:14:29,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+61.135.217.idh,2017-06-27,02:15:35,0.0,922475.0,0001213900-16-016519,xslF345X03/f4082916zhang_itt[01;31m[Keducation[m[Kal.,200.0,4073.0,0.0,0.0,0.0,10.0,0.0,
+66.249.64.dea,2017-06-27,03:29:47,0.0,1561880.0,0001213900-16-015821,f8k080816_legacy[01;31m[Keducation[m[K.htm,200.0,2911.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.cdg,2017-06-27,03:31:10,0.0,922475.0,0001213900-16-015395,xslF345X03/f4072716zhang_itt[01;31m[Keducation[m[Kal.,200.0,3958.0,0.0,0.0,0.0,10.0,0.0,
+209.126.105.hhg,2017-06-27,03:43:53,0.0,922475.0,0001213900-16-015149,f4071816yude_itt[01;31m[Keducation[m[Kal.xml,200.0,7941.0,0.0,0.0,0.0,10.0,0.0,
+108.59.3.iee,2017-06-27,03:48:05,0.0,922475.0,0001213900-16-015149,f4071816yude_itt[01;31m[Keducation[m[Kal.xml,200.0,7929.0,0.0,0.0,0.0,10.0,0.0,
+86.131.30.fad,2017-06-27,04:28:07,0.0,1130713.0,0001130713-16-000102,ex991investor[01;31m[Keducation[m[Ksess.htm,200.0,182762.0,0.0,0.0,0.0,10.0,0.0,
+86.131.30.fad,2017-06-27,04:28:07,0.0,1130713.0,0001130713-16-000102,a8-kinvestor[01;31m[Keducation[m[Ksessi.htm,200.0,25528.0,0.0,0.0,0.0,10.0,0.0,
+66.249.64.cgg,2017-06-27,04:39:40,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+111.65.68.cje,2017-06-27,05:09:25,0.0,1672885.0,0001213900-17-005203,f10q0317_doers[01;31m[Keducation[m[K.htm,200.0,14236.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation[m[K.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+66.249.75.fcg,2017-06-27,06:27:24,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,248.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itt[01;31m[Keducation[m[K012910.txt,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,[01;31m[Keducation[m[K.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation[m[K1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+66.249.64.cgg,2017-06-27,08:16:39,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation[m[K1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:57:07,0.0,102909.0,0000932471-10-000644,[01;31m[Keducation[m[Krealtytrust.htm,200.0,4033.0,0.0,0.0,0.0,10.0,0.0,
+137.189.74.bjg,2017-06-27,10:01:03,0.0,1672885.0,0001213900-16-019788,fs12016_doers[01;31m[Keducation[m[K.htm,200.0,74203.0,0.0,0.0,0.0,9.0,0.0,
+66.249.64.cgg,2017-06-27,11:40:27,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation[m[K0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:03:10,0.0,861177.0,0000861177-17-000012,new_oriental_[01;31m[Keducation[m[K_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.gch,2017-06-27,13:29:30,0.0,1013934.0,0001213900-14-003059,f10q0314_strayer[01;31m[Keducation[m[K.htm,200.0,42045.0,0.0,0.0,0.0,10.0,0.0,
+117.136.0.cca,2017-06-27,13:38:10,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation[m[K0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+156.33.118.eja,2017-06-27,14:37:56,0.0,929887.0,0000215457-17-002148,apollo.[01;31m[Keducation[m[K.gro.txt,200.0,5094.0,0.0,0.0,0.0,9.0,0.0,
+156.33.118.eja,2017-06-27,14:39:05,0.0,102909.0,0000932471-17-000772,apollo[01;31m[Keducation[m[Kgroupinc.htm,200.0,4391.0,0.0,0.0,0.0,9.0,0.0,
+75.99.154.dcg,2017-06-27,15:01:35,0.0,1561880.0,0001213900-17-005135,f10q0317_legacy[01;31m[Keducation[m[K.htm,200.0,373754.0,0.0,0.0,0.0,10.0,0.0,
+75.99.154.dcg,2017-06-27,15:01:35,0.0,1561880.0,0001213900-17-005135,f10q0317_legacy[01;31m[Keducation[m[K.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+206.200.253.bjg,2017-06-27,15:02:11,0.0,861177.0,0000861177-17-000012,new_oriental_[01;31m[Keducation[m[K_tech.txt,200.0,4678.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,15:26:50,0.0,31667.0,0000732847-09-000020,[01;31m[Keducation[m[Kaldevelopmentcorp1.htm,200.0,4564.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation[m[K3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation[m[K3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+54.152.198.ghg,2017-06-27,15:58:24,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116501.0,0.0,0.0,0.0,10.0,0.0,
+54.70.205.haa,2017-06-27,15:58:26,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,1054616.0,0.0,0.0,0.0,10.0,0.0,
+54.70.205.haa,2017-06-27,15:58:26,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,0.0,429379.0,0.0,0.0,0.0,10.0,0.0,
+75.126.204.cfi,2017-06-27,15:58:26,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,1054580.0,0.0,0.0,0.0,10.0,0.0,
+54.152.198.ghg,2017-06-27,15:58:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+52.90.157.idh,2017-06-27,15:58:39,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+52.90.157.idh,2017-06-27,15:58:43,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+46.12.130.gfj,2017-06-27,15:59:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116655.0,0.0,0.0,0.0,10.0,0.0,
+54.208.79.djc,2017-06-27,16:00:28,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+54.208.79.djc,2017-06-27,16:00:28,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,301.0,693.0,0.0,0.0,0.0,10.0,0.0,
+54.200.115.gig,2017-06-27,16:00:57,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+54.200.115.gig,2017-06-27,16:00:58,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116410.0,0.0,0.0,0.0,10.0,0.0,
+54.165.81.gbi,2017-06-27,16:01:05,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+54.165.81.gbi,2017-06-27,16:01:05,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,301.0,693.0,0.0,0.0,0.0,10.0,0.0,
+107.22.225.dea,2017-06-27,16:01:18,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,1054304.0,0.0,0.0,0.0,10.0,0.0,
+54.208.0.fef,2017-06-27,16:01:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+54.208.0.fef,2017-06-27,16:01:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,301.0,693.0,0.0,0.0,0.0,10.0,0.0,
+34.196.222.bic,2017-06-27,16:02:09,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+46.12.130.gfj,2017-06-27,16:03:43,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+71.46.209.fdh,2017-06-27,16:05:27,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,9.0,0.0,
+46.12.130.gfj,2017-06-27,16:07:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+46.12.130.gfj,2017-06-27,16:11:39,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+46.12.130.gfj,2017-06-27,16:15:34,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+71.11.1.gif,2017-06-27,16:17:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+199.192.67.ihd,2017-06-27,16:27:39,0.0,861177.0,0000861177-17-000012,new_oriental_[01;31m[Keducation[m[K_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+202.181.233.bhj,2017-06-27,16:29:41,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,1054604.0,0.0,0.0,0.0,10.0,0.0,
+104.155.166.abc,2017-06-27,16:41:50,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,1053711.0,0.0,0.0,0.0,10.0,0.0,
+66.249.64.idh,2017-06-27,16:42:11,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+64.140.243.cgg,2017-06-27,16:54:31,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,1054580.0,0.0,0.0,0.0,10.0,0.0,
+173.8.168.dci,2017-06-27,16:59:36,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,9.0,0.0,
+108.58.98.iah,2017-06-27,17:14:17,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+199.192.67.ihd,2017-06-27,17:35:04,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+108.58.98.iah,2017-06-27,17:45:57,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+71.11.1.hfe,2017-06-27,18:00:24,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,9.0,0.0,
+66.249.64.bhj,2017-06-27,18:50:13,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,218.0,0.0,0.0,0.0,10.0,0.0,
+54.200.115.gig,2017-06-27,19:00:14,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+54.200.115.gig,2017-06-27,19:00:16,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116410.0,0.0,0.0,0.0,10.0,0.0,
+38.101.16.beh,2017-06-27,20:13:29,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,9.0,0.0,
+38.101.16.beh,2017-06-27,20:15:21,0.0,1561880.0,0001213900-17-005135,f10q0317_legacy[01;31m[Keducation[m[K.htm,200.0,37266.0,0.0,0.0,0.0,10.0,0.0,
+50.74.184.bff,2017-06-27,20:20:51,0.0,1013934.0,0001213900-17-002487,def14a0317_strayer[01;31m[Keducation[m[K.htm,200.0,79213.0,0.0,0.0,0.0,10.0,0.0,
+167.219.0.egd,2017-06-27,21:41:29,0.0,102909.0,0000932471-17-002640,grandcanyon[01;31m[Keducation[m[Kinc.htm,200.0,4392.0,0.0,0.0,0.0,9.0,0.0,
+166.70.66.aig,2017-06-27,21:43:20,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116535.0,0.0,0.0,0.0,9.0,0.0,
+71.9.229.cje,2017-06-27,21:47:49,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116547.0,0.0,0.0,0.0,10.0,0.0,
+71.9.229.cje,2017-06-27,21:47:49,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116610.0,0.0,0.0,0.0,10.0,0.0,
+107.77.227.cib,2017-06-27,21:48:53,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116490.0,0.0,0.0,0.0,10.0,0.0,
+54.200.115.gig,2017-06-27,22:00:18,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,301.0,688.0,0.0,0.0,0.0,10.0,0.0,
+54.200.115.gig,2017-06-27,22:00:20,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116410.0,0.0,0.0,0.0,10.0,0.0,
+209.91.96.eda,2017-06-27,22:01:55,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116415.0,0.0,0.0,0.0,10.0,0.0,
+41.193.164.bgd,2017-06-27,22:23:33,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116309.0,0.0,0.0,0.0,10.0,0.0,
+86.131.30.fad,2017-06-27,22:24:41,0.0,1561880.0,0001213900-17-001550,f8k021517_legacy[01;31m[Keducation[m[K.htm,200.0,56549.0,0.0,0.0,0.0,10.0,0.0,
+12.174.234.gjj,2017-06-27,22:35:28,0.0,1013934.0,0001213900-17-002487,def14a0317_strayer[01;31m[Keducation[m[K.htm,200.0,79307.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation[m[K.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+98.146.86.fih,2017-06-27,22:55:51,0.0,1561880.0,0001213900-17-006855,f1012g2017a1_legacy[01;31m[Keducation[m[K.htm,200.0,116589.0,0.0,0.0,0.0,10.0,0.0,
+66.249.66.chj,2017-06-27,23:41:30,0.0,1585002.0,0001585002-14-000027,mhglobal[01;31m[Keducation[m[Kq32014f.htm,304.0,248.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,[01;31m[Keducation[m[Krealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education[A-Z][a-z]*.txt' log.csv
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education[a-z]**[K.txt' log.csv
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation.txt[m[K,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation.txt[m[K,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education [K**[K[K[a-z0-0-]*.txt' log.csv
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation.txt[m[K,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation.txt[m[K,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep[K[K[K[Kgrep 'education[a-z0-0-.][a-z0-00[K-.].txt' log.csv
+grep: Invalid range end
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep -h
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep    [K[K --help
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Search for PATTERNS in each FILE.
+Example: grep -i 'hello world' menu.h main.c
+PATTERNS can contain multiple patterns separated by newlines.
+
+Pattern selection and interpretation:
+    -E, --extended-regexp          PATTERNS are extended regular expressions
+    -F, --fixed-strings              PATTERNS are strings
+    -G, --basic-regexp                PATTERNS are basic regular expressions
+    -P, --perl-regexp                  PATTERNS are Perl regular expressions
+    -e, --regexp=PATTERNS          use PATTERNS for matching
+    -f, --file=FILE                      take PATTERNS from FILE
+    -i, --ignore-case                  ignore case distinctions in patterns and data
+            --no-ignore-case            do not ignore case distinctions (default)
+    -w, --word-regexp                  match only whole words
+    -x, --line-regexp                  match only whole lines
+    -z, --null-data                      a data line ends in 0 byte, not newline
+
+Miscellaneous:
+    -s, --no-messages                  suppress error messages
+    -v, --invert-match                select non-matching lines
+    -V, --version                          display version information and exit
+            --help                                display this help text and exit
+
+Output control:
+    -m, --max-count=NUM              stop after NUM selected lines
+    -b, --byte-offset                  print the byte offset with output lines
+    -n, --line-number                  print line number with output lines
+            --line-buffered              flush output on every line
+    -H, --with-filename              print file name with output lines
+    -h, --no-filename                  suppress the file name prefix on output
+            --label=LABEL                  use LABEL as the standard input file name prefix
+    -o, --only-matching              show only nonempty parts of lines that match
+    -q, --quiet, --silent          suppress all normal output
+            --binary-files=TYPE      assume that binary files are TYPE;
+                                                        TYPE is 'binary', 'text', or 'without-match'
+    -a, --text                                equivalent to --binary-files=text
+    -I                                                equivalent to --binary-files=without-match
+    -d, --directories=ACTION    how to handle directories;
+                                                        ACTION is 'read', 'recurse', or 'skip'
+    -D, --devices=ACTION            how to handle devices, FIFOs and sockets;
+                                                        ACTION is 'read' or 'skip'
+    -r, --recursive                      like --directories=recurse
+    -R, --dereference-recursive    likewise, but follow all symlinks
+            --include=GLOB                search only files that match GLOB (a file pattern)
+            --exclude=GLOB                skip files that match GLOB
+            --exclude-from=FILE      skip files that match any file pattern from FILE
+            --exclude-dir=GLOB        skip directories that match GLOB
+    -L, --files-without-match    print only names of FILEs with no selected lines
+    -l, --files-with-matches    print only names of FILEs with selected lines
+    -c, --count                              print only a count of selected lines per FILE
+    -T, --initial-tab                  make tabs line up (if needed)
+    -Z, --null                                print 0 byte after FILE name
+
+Context control:
+    -B, --before-context=NUM    print NUM lines of leading context
+    -A, --after-context=NUM      print NUM lines of trailing context
+    -C, --context=NUM                  print NUM lines of output context
+    -NUM                                            same as --context=NUM
+            --color[=WHEN],
+            --colour[=WHEN]              use markers to highlight the matching strings;
+                                                        WHEN is 'always', 'never', or 'auto'
+    -U, --binary                            do not strip CR characters at EOL (MSDOS/Windows)
+
+When FILE is '-', read standard input.    With no FILE, read '.' if
+recursive, '-' otherwise.    With fewer than two FILEs, assume -h.
+Exit status is 0 if any line (or file if -L) is selected, 1 otherwise;
+if any error occurs and -q is not given, the exit status is 2.
+
+Report bugs to: bug-grep@gnu.org
+GNU grep home page: <http://www.gnu.org/software/grep/>
+General help using GNU software: <https://www.gnu.org/gethelp/>
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education[a-z-[K0-0][az-[K[K[Ka-z00[K-0].txt' log.csv
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ^C
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education[a-z0-0-]*.txt' log.csv
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation.txt[m[K,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation.txt[m[K,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education[A-Za-z0-9-][K]*.txt' log.csv
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation.txt[m[K,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itt[01;31m[Keducation012910.txt[m[K,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation1.txt[m[K,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation1.txt[m[K,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation0gscototal.txt[m[K,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation3.txt[m[K,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation3.txt[m[K,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation.txt[m[K,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,[01;31m[Keducationrealty2008yebnymc.txt[m[K,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep [[K'educastion[K[K[K[K[K[K[Kcastion [K[K[K[K[K[K[K[Kcation[[:alnum:][:blank:][:digit:][:punct:]]*.txt' log.csv > educationsomething.txt
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh    educationsomething.txt    log.csv    [0m[01;31mlog.tar.gz[0m
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ rm[K[Khead educationsomething.txt
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itteducation012910.txt,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworientaleducation1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,taleducation0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:03:10,0.0,861177.0,0000861177-17-000012,new_oriental_education_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.education.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ grep 'education' educationsomething.txt
+1.202.140.ged,2017-06-27,01:34:47,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation[m[K0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4career[01;31m[Keducation[m[K.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,06:59:20,0.0,922475.0,0001086364-10-008787,itt[01;31m[Keducation[m[K012910.txt,200.0,5188.0,0.0,0.0,0.0,10.0,0.0,
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,[01;31m[Keducation[m[K.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,07:44:03,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation[m[K1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,08:21:58,0.0,895421.0,0000895421-10-000405,neworiental[01;31m[Keducation[m[K1.txt,200.0,3800.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:45:47,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+180.165.168.jeh,2017-06-27,12:49:03,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation[m[K0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:03:10,0.0,861177.0,0000861177-17-000012,new_oriental_[01;31m[Keducation[m[K_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,13:15:16,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+117.136.0.cca,2017-06-27,13:38:10,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4925.0,0.0,0.0,0.0,10.0,0.0,
+204.4.182.ide,2017-06-27,13:48:17,0.0,886982.0,0000769993-17-000435,tal[01;31m[Keducation[m[K0gscototal.txt,200.0,5870.0,0.0,0.0,0.0,9.0,0.0,
+156.33.118.eja,2017-06-27,14:37:56,0.0,929887.0,0000215457-17-002148,apollo.[01;31m[Keducation[m[K.gro.txt,200.0,5094.0,0.0,0.0,0.0,9.0,0.0,
+206.200.253.bjg,2017-06-27,15:02:11,0.0,861177.0,0000861177-17-000012,new_oriental_[01;31m[Keducation[m[K_tech.txt,200.0,4678.0,0.0,0.0,0.0,9.0,0.0,
+86.153.148.abf,2017-06-27,15:49:11,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation[m[K3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,15:51:33,0.0,895421.0,0000895421-09-000638,career[01;31m[Keducation[m[K3.txt,200.0,3811.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,16:27:39,0.0,861177.0,0000861177-17-000012,new_oriental_[01;31m[Keducation[m[K_tech.txt,200.0,11854.0,0.0,0.0,0.0,10.0,0.0,
+199.192.67.ihd,2017-06-27,17:35:04,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,11588.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3career[01;31m[Keducation[m[K.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,[01;31m[Keducation[m[Krealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+58.177.7.fad,2017-06-27,23:54:52,0.0,1364742.0,0000215457-17-003221,tal.[01;31m[Keducation[m[K.group..txt,200.0,4931.0,0.0,0.0,0.0,10.0,0.0,
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ git --version
+git version 2.25.1
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ git clone https://github.com/faseycranco/stc510.git
+Cloning into 'stc510'...
+remote: Enumerating objects: 11, done.[K
+remote: Counting objects:      9% (1/11)[K
+remote: Counting objects:    18% (2/11)[K
+remote: Counting objects:    27% (3/11)[K
+remote: Counting objects:    36% (4/11)[K
+remote: Counting objects:    45% (5/11)[K
+remote: Counting objects:    54% (6/11)[K
+remote: Counting objects:    63% (7/11)[K
+remote: Counting objects:    72% (8/11)[K
+remote: Counting objects:    81% (9/11)[K
+remote: Counting objects:    90% (10/11)[K
+remote: Counting objects: 100% (11/11)[K
+remote: Counting objects: 100% (11/11), done.[K
+remote: Compressing objects:    12% (1/8)[K
+remote: Compressing objects:    25% (2/8)[K
+remote: Compressing objects:    37% (3/8)[K
+remote: Compressing objects:    50% (4/8)[K
+remote: Compressing objects:    62% (5/8)[K
+remote: Compressing objects:    75% (6/8)[K
+remote: Compressing objects:    87% (7/8)[K
+remote: Compressing objects: 100% (8/8)[K
+remote: Compressing objects: 100% (8/8), done.[K
+remote: Total 11 (delta 2), reused 4 (delta 1), pack-reused 0[K
+Unpacking objects:      9% (1/11)
+Unpacking objects:    18% (2/11)
+Unpacking objects:    27% (3/11)
+Unpacking objects:    36% (4/11)
+Unpacking objects:    45% (5/11)
+Unpacking objects:    54% (6/11)
+Unpacking objects:    63% (7/11)
+Unpacking objects:    72% (8/11)
+Unpacking objects:    81% (9/11)
+Unpacking objects:    90% (10/11)
+Unpacking objects: 100% (11/11)
+Unpacking objects: 100% (11/11), 5.32 KiB | 1.77 MiB/s, done.
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh    educationsomething.txt    log.csv    [0m[01;31mlog.tar.gz[0m    [01;34mstc510[0m
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ cd stc510
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git --confgi[K[Kig [K[K[K[K[K[K[K[K[Kconfig --global user.name "Casey Franco"
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git config --global user.emial[K[K[K[Kmail "casey.franco47@yahoo.com"
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git config --global user.email "casey.franco47@yahoo.com"[K[C[1Pcasey.franco47@yahoo.com
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git config --global core.autocrlf input
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ 
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ get [K[K[Kit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ cd ..
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ mv e[Keducationsomething.txt stc510
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ ls
+Anaconda3-2021.11-Linux-x86_64.sh    log.csv    [0m[01;31mlog.tar.gz[0m    [01;34mstc510[0m
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ git status
+fatal: not a git repository (or any of the parent directories): .git
+]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ cd stc510
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+    (use "git add <file>..." to include in what will be committed)
+	[31meducationsomething.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git add educationsomething.txt
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+    (use "git restore --staged <file>..." to unstage)
+	[32mnew file:      educationsomething.txt[m
+
+]0;casey@casey-VirtualBox: ~/Downloads/stc510[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads/stc510[00m$ exit
+exit
+
+Script done on 2022-01-23 14:27:23-08:00 [COMMAND_EXIT_CODE="0"]
