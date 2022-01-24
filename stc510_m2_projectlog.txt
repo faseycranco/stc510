@@ -1,3 +1,7 @@
+Casey Franco - STC510 - M2 - Script log
+This is not the original file. Due to the previous one being heavily currupted thanks to a poorly placed "cat" command, I had to salvage what I could into this new txt
+
+
 ﻿Script started on 2022-01-23 12:21:08-08:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="116" LINES="32"]
 ]0;casey@casey-VirtualBox: ~[01;32mcasey@casey-VirtualBox[00m:[01;34m~[00m$ wget[K[K[K[Kcd Downloads
 ]0;casey@casey-VirtualBox: ~/Downloads[01;32mcasey@casey-VirtualBox[00m:[01;34m~/Downloads[00m$ wget http://bit.ly/fbi-help
